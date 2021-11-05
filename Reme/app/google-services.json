@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "679168678817",
+    "firebase_url": "https://reme-4c912-default-rtdb.firebaseio.com",
+    "project_id": "reme-4c912",
+    "storage_bucket": "reme-4c912.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679168678817:android:f2b3ea5e68687363eec9e0",
+        "android_client_info": {
+          "package_name": "com.example.reme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679168678817-2l2j5na5tt4ad891klh2s85i9vbeetu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu8OnmwYeiILHFPnbEjESD12TXZqaef40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679168678817-2l2j5na5tt4ad891klh2s85i9vbeetu3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

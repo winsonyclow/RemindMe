@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_500">#3479E1</color>
+    <color name="blue_700">#1566e0</color>
+    <color name="green_200">#38d652</color>
+    <color name="green_700">#1ca633</color>
+    <color name="yellow_700">#FFEB3B</color>
+    <color name="black">#FF000000</color>
+    <color name="white_500">#BDB9B9</color>
+    <color name="white_700">#FFFFFFFF</color>
+    <color name="red_700">#FF0000</color>
+    <color name="red_500">#D83333</color>
+
+    <color name="noteColor2">#BDAF2B</color>
+    <color name="noteColor3">#AA401F</color>
+    <color name="noteColor4">#8F0A0A</color>
+    <color name="noteColor5">#1566e0</color>
+
+    <color name="defaultBackground">#1F1F1F</color>
+    <color name="defaultBackground2">#2C2C2C</color>
+    <color name="defaultBackground3">#393838</color>
+    <color name="defaultBackground4">#616161</color>
+
+    <color name="tfe_semi_transparent">#66000000</color>
+</resources>
